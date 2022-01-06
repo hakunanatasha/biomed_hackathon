@@ -104,28 +104,3 @@ Push these changes to **your fork** with the following command:
 
 Make a PR to implement your changes on the main repository [here](https://github.com/huggingface/datasets/pulls). To do so, click "New Pull Request". Then, choose your branch from your fork to push into "base:master".
 
-
---------------------------------------------------------
-The language of this hackathon follows greatly from the original [datasets hackathon](https://github.com/bigscience-workshop/data_tooling/wiki/datasets-hackathon). 
-
-## Option 2: Make a "Bigscience-Biomedical" organization on HF hub:
-
-1. Create a "Bigscience-Biomedical" group on Huggingface Hub (via [here](https://huggingface.co/organizations/new))
-
-2. Create a set of issues on the [github](https://github.com/bigscience-workshop/biomedical/issues). This can be done in a "project" view [here](https://github.com/bigscience-workshop/biomedical/projects?type=beta).
-
-Make sure for the collection there is the dataset name, a selected UID to refer to the dataset, etc. 
-
-**Note** (NS) Recommended to make a project view, as we can also mention license type etc. notes quite easily.
-
-3. Users can choose an issue by assigning themselves via project-view, or on the github issues board (look to the right-hand side under "assignees"). 
-
-4. Create a 🤗 Dataset repository: https://huggingface.co/new-dataset
-
-Set Owner: bigscience-biomedical <br>
-Set Dataset name: Collection Name <br>
-Select Private <br>
-Create dataset <br>
-
-5. Clone the repository via: <br>
-`git clone https://huggingface.co/datasets/bigscience-biomedical/<collection UID>`
