@@ -6,7 +6,7 @@ We are running a **Biomedical Datasets hackathon** to centralize many NLP datase
 
 ## Goals of this hackathon
 
-We want to create as many biomedical dataset **dataloader scripts** for use with the `[datasets]`(https://huggingface.co/docs/datasets/) library. 
+We want to create as many biomedical dataset **dataloader scripts** for use with the [datasets](https://huggingface.co/docs/datasets/) library. 
 
 The `datasets` library contains many different datasets, from a variety of domains, and the unique natural language attributes that describe them. The strength of this library is that all these datasets can be downloaded, and accessed with a single line of code.
 
