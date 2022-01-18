@@ -31,6 +31,9 @@ There are official guides to contributing to the `datasets` library from Hugging
 
 Contributors must implement a dataloading script for **at least 1 dataset** to be guaranteed acknowledgement. Details for acknowledgements can be found [here](##Thank_you!)
 
+
+## Get started
+
 A step-by-step guide on how you can implement a dataset can be found [here](CONTRIBUTING.md).
 
 #### Pre-Requisites
@@ -61,7 +64,7 @@ You can find template scripts and examples as follows: <br>
 
 ## Community channels
 
-Access to the biomedical working group slack can be found here:
+Access to the biomedical working group slack can be found [here](). <!-- @Natasha FIX LINK -->
 
 ## FAQs
 
