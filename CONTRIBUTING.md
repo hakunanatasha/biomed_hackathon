@@ -108,6 +108,9 @@ from datasets import load_dataset
 
 data = load_dataset('your_dataset_name')
 ```
+
+Run these commands in a folder that isn't directly in `datasets`, or else it will interfere with the import statement.
+
 ### 5. Format code 
 
 Return to the main directory (assuming you are in your dataset-specific folder) via the following commands:
