@@ -6,7 +6,11 @@ We are running a **Biomedical Datasets hackathon** to centralize many NLP datase
 
 ## Goals of this hackathon
 
-We aim to curate as many biomedical dataset **dataloader scripts** within a fork of Huggingface's `datasets` library. The original `datasets` library contains many different datasets, from a variety of domains, and the unique natural language attributes that describe them. We want to do the following for the variety of different biomedical datasets, given there are many sources hosting them.
+We want to create as many biomedical dataset **dataloader scripts** for use with the `[datasets]`(https://huggingface.co/docs/datasets/) library. 
+
+The `datasets` library contains many different datasets, from a variety of domains, and the unique natural language attributes that describe them. The strength of this library is that all these datasets can be downloaded, and accessed with a single line of code.
+
+Our goal is to do the same for biomedical datasets, so that practioners can have easy access to these datasets. 
 
 There are two broad categories of biomedical datasets:
 
@@ -42,17 +46,42 @@ All commands in the guide provided are done through terminal access.
 
 You can find template scripts and examples as follows: <br>
 
-1. [Template for publically licensed data]()
-2. [Template for externally licensed data]()
-3. [Example of publically licensed data]()
-4. [Example of externally licensed data]()
-5. [Example of Bio-C format annotation]()
-6. [Example with BRAT format annotation]()
+1. [Template for publically licensed data](templates/template.py)
+2. [Template for externally licensed data](templates/template_local.py)
+3. [Example of publically licensed data](examples/chemprot.py)
+4. [Example of externally licensed data](examples/cellfinder.py)
+5. [Example of Bio-C format annotation](examples/bc5cdr.py)
+6. Example with BRAT format annotation (coming soon)
+
+<!---
+@NATASHA Make DDI script
+
+[Example with BRAT format annotation](examples/ddi.py)
+-->
 
 ## Community channels
 
+Access to the biomedical working group slack can be found here:
+
 ## FAQs
+
+*What if my dataset does not have a public license?*
+
+We understand that some biomedical datasets require external licensing. To respect the agreement of the license, we recommend implementing a dataloader script that works if the user has a locally downloaded file. You can find an example [here](examples/cellfinder.py) and follow the local [template](templates/template_local.py).
+
+*What types of libraries can we import?*
+
+*Can I upload the data directly?*
+
 
 ## Thank you!
 
-We greatly appreciate your help! Contributors 
+We greatly appreciate your help! 
+
+<!---
+Contribution rewards:
+
+- t-shirts?
+- can we get a github star/badge that people can host on their profiles
+- minimum acknowledgement in a paper; may have authorship
+-->
