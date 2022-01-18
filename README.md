@@ -31,7 +31,7 @@ There are official guides to contributing to the `datasets` library from Hugging
 
 Contributors must implement a dataloading script for **at least 1 dataset** to be guaranteed acknowledgement. Details for acknowledgements can be found [here](##Thank_you!)
 
-A step-by-step guide on how you can implement a dataset can be found [here]().
+A step-by-step guide on how you can implement a dataset can be found [here](CONTRIBUTING.md).
 
 #### Pre-Requisites
 
