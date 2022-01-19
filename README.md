@@ -32,7 +32,7 @@ There are official guides to contributing to the `datasets` library from Hugging
 
 Contributors must implement an accepted dataloading script to the library for **at least 1 dataset** to be guaranteed acknowledgement. All PRs submitted will be subject to code review prior to acceptance.
 
-Details for contributor acknowledgements can be found [here](##Thank_you!)
+Details for contributor acknowledgements can be found [here](#Thank_you!)
 
 ## Get started
 
