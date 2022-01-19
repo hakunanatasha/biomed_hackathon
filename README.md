@@ -7,7 +7,7 @@ We are running a **Biomedical Datasets hackathon** to centralize many NLP datase
 
 ## Goals of this hackathon
 
-We want to create as many biomedical dataset **dataloader scripts** for use with the [datasets](https://huggingface.co/docs/datasets/) library. 
+We want to create as many biomedical dataset **dataloader scripts** for use with the [`datasets`](https://huggingface.co/docs/datasets/) library. 
 
 The `datasets` library contains many different datasets, from a variety of domains, and the unique natural language attributes that describe them. The strength of this library is that all these datasets can be downloaded, and accessed with a single line of code.
 
@@ -18,7 +18,7 @@ There are two broad categories of biomedical datasets:
 ##### 1. Publically licensed data
 ##### 2. Externally licensed data
 
-We will accept dataloder scripts for either datatype; please see the [FAQs](##FAQs) for more explicit details. 
+We will accept dataloder scripts for either datatype; please see the [FAQs](#FAQs) for more explicit details. 
 
 
 ### How will this data be used?
