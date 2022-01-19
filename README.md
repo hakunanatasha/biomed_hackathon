@@ -73,7 +73,10 @@ We welcome contributions from a wide variety of backgrounds; we are more than ha
 Please join the BigScience initiative [here](https://bigscience.huggingface.co/); there is a [google form](https://docs.google.com/forms/d/e/1FAIpQLSdF68oPkylNhwrnyrdctdcs0831OULetgfYtr-aVxBg053zqA/viewform) to fill out to have access to the biomedical working group slack. Once you have filled out this form, you'll get access to BigScience's google drive. There is a document where you can fill your name next to a working group; be sure to fill your name on the "Biomedical" group. 
 
 #### Join our Discord Server
-Alternatively, you can ping us on the [Biomedical Discord Server](https://discord.gg/PrhGdhJE). The Discord server can be used to share information quickly or ask code-related questions.
+Alternatively, you can ping us on the Biomedical discord server. The Discord server can be used to share information quickly or ask code-related questions.
+
+<!-- [Biomedical Discord Server](https://discord.gg/PrhGdhJE). @NATASHA make server?--> 
+
 
 #### Make a Github Issue
 For quick questions and clarifications, you can [make an issue via Github](https://github.com/bigscience-workshop/biomedical/issues).
