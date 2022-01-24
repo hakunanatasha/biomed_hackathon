@@ -51,7 +51,7 @@ Please do the following before getting started:
 There are two options to choose a dataset to implement; you can choose either option, but **we recommend option A**. 
 
 **Option A: Assign yourself a dataset from our curated list**
-- Choose a dataset from the [list of Biomedical datasets](https://github.com/orgs/bigscience-workshop/projects/). 
+- Choose a dataset from the [list of Biomedical datasets](https://github.com/orgs/bigscience-workshop/projects/6/). 
 
 - If there are no volunteers assigned to the dataset, go to the issue and assign yourself to the issue by commenting on it. An organizer will formally assign you to the issue with your github account handle.
 
