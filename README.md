@@ -128,6 +128,8 @@ git commit -m "Adds <your_dataset_name"
 git push origin
 ```
 
+And with that, you have successfully contributed a data-loading script!
+
 ## Community channels
 
 We welcome contributions from a wide variety of backgrounds; we are more than happy to guide you through the process. For instructions on how to get involved or ask for help, check out the following options:
