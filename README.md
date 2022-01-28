@@ -1,3 +1,5 @@
+** (2022.01.28) Hi all the official repo is moving [here](https://github.com/bigscience-workshop/biomedical) stay tuned for updates for when this is live : ) you are welcome to contact me via an issue here or on the main repo for updates and instructions on how to join! **
+
 # Welcome to the BigScience🌸 Biomedical NLP Hackathon!
 
 Huggingface's BigScience🌸 initative is an open scientific collaboration of nearly 600 researchers from 50 countries and 250 institutions who collaborate on various projects within the natural language processing (NLP) space to broaden accessibility of language datasets while working on challenging scientific questions around language modeling.  
