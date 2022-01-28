@@ -1,4 +1,4 @@
-** (2022.01.28) Hi all the official repo is moving [here](https://github.com/bigscience-workshop/biomedical) stay tuned for updates for when this is live : ) you are welcome to contact me via an issue here or on the main repo for updates and instructions on how to join! **
+**(2022.01.28) Hi all the official repo is moving [here](https://github.com/bigscience-workshop/biomedical) stay tuned for updates for when this is live : ) you are welcome to contact me via an issue here or on the main repo for updates and instructions on how to join!**
 
 # Welcome to the BigScience🌸 Biomedical NLP Hackathon!
 
